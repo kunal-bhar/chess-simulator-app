@@ -2,7 +2,7 @@
 An implementation of the world's most ancient game with two-player gameplay with authentic rules and UI. 
 Inspired from chess.com, the world's #1 online chess website.
 
-Created: (05/2020-06/2020)
+Created: (05/2021-06/2021)
 
 ![chess-sim-1](https://user-images.githubusercontent.com/80972100/125577202-2b3b2a96-d053-41c3-9b34-6fa9d1038310.PNG)
 
