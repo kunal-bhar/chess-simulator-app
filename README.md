@@ -1,5 +1,5 @@
 # chess-simulator
-An implementation of the world's most ancient game with two-player gameplay with authentic rules and UI. 
+An implementation of the world's most ancient game with two-player gameplay, authentic rules and classic UI. 
 Inspired from chess.com, the world's #1 online chess website.
 
 Created: (05/2021-06/2021)
