@@ -1,4 +1,4 @@
-# chess-simulator
+# veni-vidi-vishy
 An implementation of the world's most ancient game with two-player gameplay, authentic rules and classic UI. 
 Inspired from [chess.com](https://www.chess.com/), the world's #1 online chess website and GM Vishwanathan (Vishy) Anand.
 
